@@ -2,21 +2,21 @@
 
 Welcome to the Checkers Game with AI opponent using the alpha-beta pruning algorithm! This project was developed using Python and Pygame, providing a graphical user interface (GUI) for players to enjoy a game of checkers against a challenging AI opponent.
 
-<h1>Features
-Play checkers against an AI opponent that utilizes the alpha-beta pruning algorithm for efficient decision-making.
-Interactive GUI built with Pygame, allowing players to make moves by clicking on the board.
-Classic checkers gameplay with all standard rules, including mandatory capturing and king promotion.
-Clear and user-friendly interface for an enjoyable gaming experience.
-Installation
-Make sure you have Python installed on your system (Python 3.6 or higher is recommended).
+### Features
+* Play checkers against an AI opponent that utilizes the alpha-beta pruning algorithm for
+  efficient decision-making.
+* Interactive GUI built with Pygame, allowing players to make moves by clicking on the board.
+*Classic checkers gameplay with all standard rules, including mandatory capturing and king promotion.
+*Clear and user-friendly interface for an enjoyable gaming experience.
 
-Clone this repository to your local machine or download the ZIP file and extract it.
+### Installation
+* Make sure you have Python installed on your system (Python 3.6 or higher is recommended).
+* Clone this repository to your local machine or download the ZIP file and extract it.
+  * Navigate to the project directory using the command line: cd checkers-game-alpha-beta
+  * Install the required dependencies using pip: pip install pygame
+  * Run the game: python main.py
 
-Navigate to the project directory using the command line: cd checkers-game-alpha-beta
-Install the required dependencies using pip: pip install pygame
-Run the game: python main.py
-
-How to Play
+### How to Play
 Launch the game using the above installation instructions.
 
 The game board will be displayed on the screen. The board consists of 64 squares, alternating between light and dark.
