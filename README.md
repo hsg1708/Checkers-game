@@ -28,8 +28,8 @@ Welcome to the Checkers Game with AI opponent using the alpha-beta pruning algor
 * The game ends when one player captures all of the other player's pieces or blocks them so they can't move.
 * Enjoy the game and have fun!
 
-###Credits
+### Credits
 * This Checkers Game with Alpha-Beta Pruning AI was developed by Harsh Gupta. Feel free to contact me at hsg99100@gmail.com for any inquiries or suggestions.
 
-#####Have a great time playing Checkers and challenging the AI opponent! If you encounter any issues or have suggestions, don't hesitate to reach out. 
-##Happy gaming!
+##### Have a great time playing Checkers and challenging the AI opponent! If you encounter any issues or have suggestions, don't hesitate to reach out. 
+## Happy gaming!
