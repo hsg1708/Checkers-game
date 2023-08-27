@@ -17,28 +17,19 @@ Welcome to the Checkers Game with AI opponent using the alpha-beta pruning algor
   * Run the game: python main.py
 
 ### How to Play
-Launch the game using the above installation instructions.
 
-The game board will be displayed on the screen. The board consists of 64 squares, alternating between light and dark.
+* Launch the game using the above installation instructions.
+* The game board will be displayed on the screen. The board consists of 64 squares, alternating between light and dark.
+* The pieces of each player are represented as red and white checkers. Red goes first.
+* To make a move, click on your checker piece to select it, then click on the highlighted square where you want to move.
+  If a valid capturing move is available, the game will prompt you to select the captured piece.
+* The AI opponent will automatically make its move after you complete yours. Watch out for its strategic decisions!
+* Continue alternating moves with the AI opponent until the game reaches a conclusion.
+* The game ends when one player captures all of the other player's pieces or blocks them so they can't move.
+* Enjoy the game and have fun!
 
-The pieces of each player are represented as red and white checkers. Red goes first.
+###Credits
+* This Checkers Game with Alpha-Beta Pruning AI was developed by Harsh Gupta. Feel free to contact me at hsg99100@gmail.com for any inquiries or suggestions.
 
-To make a move, click on your checker piece to select it, then click on the highlighted square where you want to move. If a valid capturing move is available, the game will prompt you to select the captured piece.
-
-The AI opponent will automatically make its move after you complete yours. Watch out for its strategic decisions!
-
-Continue alternating moves with the AI opponent until the game reaches a conclusion.
-
-The game ends when one player captures all of the other player's pieces or blocks them so they can't move.
-
-Enjoy the game and have fun!
-
-Credits
-This Checkers Game with Alpha-Beta Pruning AI was developed by [Your Name]. Feel free to contact me at [your@email.com] for any inquiries or suggestions.
-
-Special thanks to the creators of Pygame and the developers of the alpha-beta pruning algorithm for their invaluable contributions to this project.
-
-License
-This project is licensed under the MIT License.
-
-Have a great time playing Checkers and challenging the AI opponent! If you encounter any issues or have suggestions, don't hesitate to reach out. Happy gaming!
+#####Have a great time playing Checkers and challenging the AI opponent! If you encounter any issues or have suggestions, don't hesitate to reach out. 
+##Happy gaming!
